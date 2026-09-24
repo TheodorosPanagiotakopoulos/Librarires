@@ -25,7 +25,7 @@ cd Libraries
 pip install -r requirements.txt
 ```
 
-For individual library usage, you can also copy specific files to your project directory and import them directly
+For individual library usage, you can also copy specific files to your project directory and import them directly.
 
 ---
 
